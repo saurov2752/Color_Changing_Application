@@ -1,0 +1,9 @@
+H:\.DOT NET\Code\Windows Application\ColorChange\ColorChange\bin\Debug\ColorChange.exe.config
+H:\.DOT NET\Code\Windows Application\ColorChange\ColorChange\bin\Debug\ColorChange.exe
+H:\.DOT NET\Code\Windows Application\ColorChange\ColorChange\bin\Debug\ColorChange.pdb
+H:\.DOT NET\Code\Windows Application\ColorChange\ColorChange\obj\Debug\ColorChange.csprojResolveAssemblyReference.cache
+H:\.DOT NET\Code\Windows Application\ColorChange\ColorChange\obj\Debug\ColorChange.ColorChangeUI.resources
+H:\.DOT NET\Code\Windows Application\ColorChange\ColorChange\obj\Debug\ColorChange.Properties.Resources.resources
+H:\.DOT NET\Code\Windows Application\ColorChange\ColorChange\obj\Debug\ColorChange.csproj.GenerateResource.Cache
+H:\.DOT NET\Code\Windows Application\ColorChange\ColorChange\obj\Debug\ColorChange.exe
+H:\.DOT NET\Code\Windows Application\ColorChange\ColorChange\obj\Debug\ColorChange.pdb
